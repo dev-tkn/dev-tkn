@@ -1,4 +1,4 @@
-# Hi, I'm [Display Name] 👋
+# Hi, I'm Dev-Tofu-Hello 👋
 
 ## About Me
 フルスタックエンジニアとして、インフラ設計から
@@ -49,15 +49,7 @@ AWS に加え、Microsoft Azure の本格的な学習を予定。
 マルチクラウド対応のアーキテクチャ設計を目指している。
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Tofu-Hello&show_icons=true&theme=dark)
 
 ## 📬 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-```
-
----
-
-プレースホルダーは2箇所です。
-```
-YOUR_USERNAME   GitHubのusernameに置き換え
-YOUR_EMAIL      仕事用Gmailに置き換え
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.tofuu@gmail.com)
